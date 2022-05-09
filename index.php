@@ -1,6 +1,6 @@
 <?PHP
 
-echo "Apresendizado de PHP <Strong>Hello World</Strong>;
+echo "Apresendizado de PHP...alterando no GITHUB <Strong>Hello World</Strong>;
 
 ?>
 
